@@ -10,6 +10,8 @@
  *
  * 
  * 
+ * Commento inutile
+ * 
  * The contents of this file are subject to the terms of either the GNU
  * General Public License Version 2 only ("GPL") or the Common
  * Development and Distribution License("CDDL") (collectively, the
