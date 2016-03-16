@@ -7,7 +7,7 @@ Aggiungo qualche cazzata!
 
 Beexeltest1 scrive  qualcosaltro
 
-Elimino i commenti di beexelTest1
+BeexelTest1 continua a scrivere ed intanto faccio Fetch
 
 
 ---------------------
