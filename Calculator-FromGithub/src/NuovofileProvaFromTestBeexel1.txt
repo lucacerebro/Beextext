@@ -11,6 +11,12 @@ Master viene modificato da BeexelTest1
 Ancora RAmoBBB
 
 Ramo DEVELOPMENT
+<<<<<<< HEAD
+=======
+Ramo Development Continua a Scrivere
+Development scrive ancora
+
+>>>>>>> develop
 
 Beexeltest1 scrive  qualcosaltro
 Sempre beexeltest che scrive....
