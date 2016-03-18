@@ -4,27 +4,5 @@ Qui sta scrivendo luca mentre sta modificando anche BeexelTest1
 ho creato un nuovo ramo di prova
 Aggiungo qualche cazzata!
 
-RamoMaster-------
-Master viene modificato da BeexelTest1
+Team Privato con Menager
 
-
-Ancora RAmoBBB
-
-Ramo DEVELOPMENT
-<<<<<<< HEAD
-=======
-Ramo Development Continua a Scrivere
-Development scrive ancora
-
->>>>>>> develop
-
-Beexeltest1 scrive  qualcosaltro
-Sempre beexeltest che scrive....
-
-Qualcosa che è inutile
-
-Commit RamoMaster&RamoMaster!!! Conflict Risolto!
-
-...!!!
-RAMO-BBBBBB
-MasterLocale
