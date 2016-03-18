@@ -1,0 +1,21 @@
+.
+SEcondo commento di Luca
+Qui sta scrivendo luca mentre sta modificando anche BeexelTest1
+ho creato un nuovo ramo di prova
+Aggiungo qualche cazzata!
+
+RamoMaster-------
+
+Ancora RAmoBBB
+
+Ramo DEVELOPMENT
+
+Beexeltest1 scrive  qualcosaltro
+Sempre beexeltest che scrive....
+
+Qualcosa che è inutile
+
+Commit RamoMaster&RamoMaster!!! Conflict Risolto!
+
+...!!!
+RAMO-BBBBBB
