@@ -19,3 +19,4 @@ Commit RamoMaster&RamoMaster!!! Conflict Risolto!
 
 ...!!!
 RAMO-BBBBBB
+MasterLocale
